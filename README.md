@@ -1,16 +1,26 @@
-## Hi there 👋
+### Jakin Harper
+Founder and product lead working in voice AI. I build and operate the systems
+that make voice agents reliable in production, not just convincing in a demo.
 
-<!--
-**jakinharp/jakinharp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**What I work on**
+- **VoiceLens** (IntegrAIte): a provider-agnostic voice AI operations and
+  monitoring platform, currently in early-access beta with paying agency
+  partners. I own product direction, pricing, and the Design Partner program.
+- **Rareform Agency**: production voice AI deployments for service businesses,
+  including dual-provider failover, telephony bridging, and post-call
+  reconciliation.
+- **Voice AI Diagnostic Audits**: a productized engagement that traces the
+  real bottleneck behind voice agents that fail under live traffic.
 
-Here are some ideas to get you started:
+**Background**
+13+ years across production infrastructure: prior to voice AI, I spent six
+years at Booz Allen Hamilton on federal contracts at AWS GovCloud scale, and
+co-led a Linux operations team at Rackspace supporting Fortune 1000 clients.
+RHCE. Lean Six Sigma Black Belt trained.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Interests**
+Multi-provider failover, telephony (SIP, RTP, WebRTC), cascaded vs.
+speech-to-speech architectures, and observability for production voice agents.
+
+Most of my work lives in private and client repositories. Reach me at
+linkedin.com/in/jakinharper.
